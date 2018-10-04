@@ -1,7 +1,6 @@
 {
-  "name": "Tsega-palindrome",
+  "name": "tsega-palindrome",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -18,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/Tsegazeab-Hailu/Tsega-Palindrome/issues"
   },
-  "homepage": "https://github.com/Tsegazeab-Hailu/Tsega-Palindrome#readme"
+  "homepage": "https://github.com/Tsegazeab-Hailu/Tsega-Palindrome#readme",
+  "description": ""
 }
